@@ -2,7 +2,9 @@
 
 ## About
 
-Malo e Lelei and welcome! I'm excited to share with you my whitepaper on restructuring Tonga's entire governance model around blockchains and proof-of-work consensus. By validating the authentic popular will directly from citizens through cryptography, we remove the need for institutional centralization and intermediaries. Policy outcomes emerge from the accountable expenditure of participatory efforts rewarded as sovereign equity stakes.
+Malo e Lelei and welcome! 
+
+I'm excited to share with you my whitepaper on restructuring Tonga's entire governance model around blockchains and proof-of-work consensus. By validating the authentic popular will directly from citizens through cryptography, we remove the need for institutional centralization and intermediaries. Policy outcomes emerge from the accountable expenditure of participatory efforts rewarded as sovereign equity stakes.
 
 Please visit the [whitepaper](https://github.com/EdwinLiavaa/Witepaper/blob/main/files/dmm-kingdom-of-tonga-white-paper-1st-DRAFT.pdf) for more details.
 
