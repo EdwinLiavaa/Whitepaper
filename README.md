@@ -16,6 +16,6 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
 [Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus](https://github.com/EdwinLiavaa/Witepaper/blob/main/files/dmm-kingdom-of-tonga-white-paper-1st-DRAFT.pdf) 
 
 <p align="center">
- <img width="500" src="(https://github.com/EdwinLiavaa/Witepaper/blob/main/files/pic.png)">
+ <img width="500" src="https://github.com/EdwinLiavaa/liavaa.space/blob/main/files/pic.png">
 </p>
 
