@@ -21,13 +21,11 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
  <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
 </p>
 
-<p align="center">
 # Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus
 
 Edwin Liava'a  
 edwin@liavaa.space  
 www.liavaa.space
-</p>
 
 ## Abstract
 
