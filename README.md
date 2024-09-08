@@ -37,17 +37,23 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
     www.liavaa.space
 </div>
 
-<div style="margin-right: 100px;"><ul>
+<div style="margin-right: 100px;">
+
+<ul>
 
 ## Abstract
 
-<p align="justify">A purely decentralized model of constitutional governance would allow sovereign affairs to be conducted directly by the people without reliance on centralized political institutions. Cryptographic proof-of-work provides a solution to the issues of democratic representation and execution of the popular will. We propose a decentralized micro-governance system using a proof-of-work blockchain to record immutable decisions made by communities. The network timestamps participatory proposals by hashing them into an ongoing chain, forming a transparent record that cannot be altered without redoing the proof-of-work. Nodes express acceptance of proposals by extending the longest valid chain, with the chain representing the true sequence of events agreed upon by the most proof-of-work effort from participants. As long as honest participants control the majority of effort, they generate the longest chain, enacting their collective will while automatically rejecting invalid attempts by any minority attackers.</p></ul></div>
+<p align="justify">A purely decentralized model of constitutional governance would allow sovereign affairs to be conducted directly by the people without reliance on centralized political institutions. Cryptographic proof-of-work provides a solution to the issues of democratic representation and execution of the popular will. We propose a decentralized micro-governance system using a proof-of-work blockchain to record immutable decisions made by communities. The network timestamps participatory proposals by hashing them into an ongoing chain, forming a transparent record that cannot be altered without redoing the proof-of-work. Nodes express acceptance of proposals by extending the longest valid chain, with the chain representing the true sequence of events agreed upon by the most proof-of-work effort from participants. As long as honest participants control the majority of effort, they generate the longest chain, enacting their collective will while automatically rejecting invalid attempts by any minority attackers.</p>
+
+</ul>
+
+</div>
 
 ## 1. Introduction
 
-Governance in traditional nation-states has relied heavily on complex, centralized political processes mediated by representatives acting as trusted third parties. While functional for centuries, this system is plagued by issues of institutional bias, corruption, enforcement subjectivity, and divergence between legislation and the true will of the populace. Completely immutable and autonomous governance becomes impossible, as political institutions inevitably serve as control gatekeepers. The cost of institutional mediation limits efficiency and often imposes controversial policies that a direct popular system would disagree with.
+<p align="justify">Governance in traditional nation-states has relied heavily on complex, centralized political processes mediated by representatives acting as trusted third parties. While functional for centuries, this system is plagued by issues of institutional bias, corruption, enforcement subjectivity, and divergence between legislation and the true will of the populace. Completely immutable and autonomous governance becomes impossible, as political institutions inevitably serve as control gatekeepers. The cost of institutional mediation limits efficiency and often imposes controversial policies that a direct popular system would disagree with.
 
-What is required is a governance model based on provable, incorruptible participation directly from citizens, removing the need for centralized representative institutions. We must explore a system in which any individual's proposals can be autonomously implemented and become de-facto legislation if validated through proof of authentic popular assent and acceptance directly from participants. Enacted policies would be computationally impractical to disagree with or revert, truly embodying the spirit of "government of the people, by the people, for the people."
+What is required is a governance model based on provable, incorruptible participation directly from citizens, removing the need for centralized representative institutions. We must explore a system in which any individual's proposals can be autonomously implemented and become de-facto legislation if validated through proof of authentic popular assent and acceptance directly from participants. Enacted policies would be computationally impractical to disagree with or revert, truly embodying the spirit of "government of the people, by the people, for the people."</p>
 
 ## 2. Constitutional Foundation
 
