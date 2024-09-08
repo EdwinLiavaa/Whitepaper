@@ -41,7 +41,7 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
 
 ## Abstract
 
-<div style='text-align: justified;'>
+<div style='text-align: justify;'>
 A purely decentralized model of constitutional governance would allow sovereign affairs to be conducted directly by the people without reliance on centralized political institutions. Cryptographic proof-of-work provides a solution to the issues of democratic representation and execution of the popular will. We propose a decentralized micro-governance system using a proof-of-work blockchain to record immutable decisions made by communities. The network timestamps participatory proposals by hashing them into an ongoing chain, forming a transparent record that cannot be altered without redoing the proof-of-work. Nodes express acceptance of proposals by extending the longest valid chain, with the chain representing the true sequence of events agreed upon by the most proof-of-work effort from participants. As long as honest participants control the majority of effort, they generate the longest chain, enacting their collective will while automatically rejecting invalid attempts by any minority attackers.
 </div>
 
