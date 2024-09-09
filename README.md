@@ -70,7 +70,7 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
 
 <p align="justify">The specific properties and regulations governing govTokens as sovereign equity, including their utilization, accounting, and recognition within the broader economy, remain subject to ongoing participatory consensus building. However, their core purpose manifests as a self-sovereign stake issued as a reward for citizens proving tangible engagement in grass-roots governing at a visceral micro-community level. By validating authentic policies coherent with Tongan values, citizen miners bootstrap their own latent governance equity or "personal sovereignty score" incrementally issued onto the official national ledger.</p>
 
-<<p align="justify">Long-term, these accruable govToken stakes represent recognition of each citizen's relative paramountcy and deference-warranting authority as expressed through their substantive contributory efforts. They transmute from compensations rewarding participatory mining input into signaling social and economic commitments that could serve to undergird concrete decentralized self-governance capacities. As the blockchain matures over successive generations, these sovereign equity endowments come to precisely quantify the cumulative participatory efforts of citizens and communities enacting their inalienable rights of self-determination, offering an immutable cryptographic accounting of earned micro-governance voting influence.</p>
+<p align="justify">Long-term, these accruable govToken stakes represent recognition of each citizen's relative paramountcy and deference-warranting authority as expressed through their substantive contributory efforts. They transmute from compensations rewarding participatory mining input into signaling social and economic commitments that could serve to undergird concrete decentralized self-governance capacities. As the blockchain matures over successive generations, these sovereign equity endowments come to precisely quantify the cumulative participatory efforts of citizens and communities enacting their inalienable rights of self-determination, offering an immutable cryptographic accounting of earned micro-governance voting influence.</p>
 
 ## 6. Distributed Autonomous Communities
 
@@ -228,7 +228,7 @@ This multi-year road-map allows rigorous testing, refinement and scaled on-board
 Here is a proposed organizational structure flow chart for Tonga's decentralized micro-governance model based on the proof-of-work blockchain ecosystem described:
 
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
+ <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
 </p>
 
 ### Key Points:
@@ -246,19 +246,19 @@ Here is a proposed organizational structure flow chart for Tonga's decentralized
 Here are some of the mathematical functions supporting the proposed decentralized micro-governance model for the Kingdom of Tonga based on proof-of-work:
 
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
+ <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
 </p>
 
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
+ <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
 </p>
 
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
+ <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
 </p>
 
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
+ <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
 </p>
 
 <p align="justify">This provides a few key example functions, but many other areas could be mathematically modeled, such as equity stake quantification, voting schemes, resource allocation mechanisms, identity attestation protocols, community token issuance policies, and more. The key principles are leveraging robust cryptography, incentive modeling, and provable decentralized consensus through mathematical functions at the core of the governance system's operation.</p>
