@@ -234,12 +234,16 @@ Here is a proposed organizational structure flow chart for Tonga's decentralized
 </p>
 
 ### Key Points:
+<p align="justify">
+
 - The Constitutional Monarchy defines the core founding principles and human rights framework that all other levels must operate within. The Sovereign serves as the architect and arbiter of this foundational national vision. 
 - The Nobles Council serves an executive advisory and governance auditing role, ensuring policies and operations across all levels remain aligned with the Constitutional parameters defined by the Monarch. 
 - The National Governance Blockchain maintains the master chain recording all national proposals and policies. Policies are enacted through a proof-of-work mining process establishing participatory consensus from citizens. 
 - Local communities operate their own child blockchains derived from the national chain, allowing decentralized self-governance over operations directly impacting that locality. Various cooperative models can be established by communities. 
 - Sub-communities like neighborhoods, family networks etc. can instantiate even more granular nested blockchains inheriting rules/policies from the parent community chain while enacting hyper-local policies. 
 - All levels are unified through the hierarchical inherited blockchain architecture, with subordinate chains constitutionally bound to higher level chains, ultimately deferred to the Monarch's Constitutional foundations. 
+  
+</p>
       
 <p align="justify">The structure allows a fluid balance between centralized Constitutional principles enforced by the Sovereign, and radical decentralized autonomy for communities to self-organize and collaborate through participatory micro-governance secured by proof-of-work consensus across all levels.</p>
 
