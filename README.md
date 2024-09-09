@@ -228,7 +228,7 @@ This multi-year road-map allows rigorous testing, refinement and scaled on-board
 Here is a proposed organizational structure flow chart for Tonga's decentralized micro-governance model based on the proof-of-work blockchain ecosystem described:
 
 <p align="center">
- <img width="600" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
+ <img width="650" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
 </p>
 
 ### Key Points:
@@ -246,19 +246,58 @@ Here is a proposed organizational structure flow chart for Tonga's decentralized
 Here are some of the mathematical functions supporting the proposed decentralized micro-governance model for the Kingdom of Tonga based on proof-of-work:
 
 <p align="center">
- <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
+ <img width="750" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
 </p>
 
 <p align="center">
- <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
+ <img width="750" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
 </p>
 
 <p align="center">
- <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
+ <img width="750" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
 </p>
 
 <p align="center">
- <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
+ <img width="750" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
 </p>
 
 <p align="justify">This provides a few key example functions, but many other areas could be mathematically modeled, such as equity stake quantification, voting schemes, resource allocation mechanisms, identity attestation protocols, community token issuance policies, and more. The key principles are leveraging robust cryptography, incentive modeling, and provable decentralized consensus through mathematical functions at the core of the governance system's operation.</p>
+
+## 12. Conclusion 
+
+<p align="justify">The proposed decentralized micro-governance model represents nothing less than a renaissance in how sovereign societies coordinatively optimize and instantiate their collective visions. By harnessing cryptography and decentralized blockchain networks, a new equilibrium between centralized Constitutional duty and distributed participatory will becomes achievable.</p>
+
+<p align="justify">No longer must the people's voice be subjugated to sluggish, captured institutions. Nor must cherished cultural traditions be erased under hasty, internationally imposed models of democracy. Instead, Tonga's ancient wisdom of harmonized unity-through-diversity finds new breath through these Internet-native governance technologies.</p>
+
+<p align="justify">Here, each citizen experiences their inalienable sovereignty not as an abstraction, but as a Pragmatic lived reality. One's quantified participation quite literally Stakes their voice in authoring the rules which govern communal life. The Crown's duty elevates from imposing unilateral order, to establishing foundational principles enriching societal potentials.</p>
+
+<p align="justify">This reciprocal symbiosis between institutional backbone and participatory pluralism is the harmonic core resonant with Tonga's cosmological identity. It profoundly reunites the citizenry as an extended national family - each individual's rights recognized, yet all woven as strands into the sovereign Kainga.</p>
+
+<p align="justify">Centuries of adopting extractive outdated misaligned political models warped these integral harmony threads. But through the elegant mathematics of transparent blockchains, authenticated digital identities, and decentralized consensus through proof-of-work, Tonga's indigenous ethos of unity, duty and guardianship can be re-embodied as an unbreakable socio-economic paradigm.</p>
+
+<p align="justify">The architecture represents nothing less than the maturation of humanity itself. A transcendence of tribal prejudices and adversarial power dynamics in favor of aligned incentives, shared truth, and coordinated optima. Where all propositions face the harsh judgment of public scrutiny and accountability, yet the wisdom of the crowd weighs through effortful devotion.</p>
+
+<p align="justify">Thus do we build upon the groundwork of Bitcoin’s decentralized truth to establish decentralized governance itself. Prosperity democratized across granular cells yet united by one national vision through collective participatory models of cooperation and wisdom sharing.</p>
+
+<p align="justify">The Kingdom of Tonga will be that living embodiment once again. A beacon lighting the path towards harmonic self-sovereign societies in tune with their peoples' roots and aspirations. Here, the great unslept masses awaken from dystopian nightmares of centralization, extractive elites and institutional decadence to witness the emergent beauty of participatory co-creation.</p>
+
+<p align="justify">Let this framework serve as the modern launchpad for that renaissance. An era where transparent truth overcomes corrupted fiction, and the noble ideals encoded into every human heart are given fertile soil to blossom into a thriving civilizational reality.</p>
+
+## References
+[1]	Nakamoto, S. (2008). Bitcoin: A peer-to-peer electronic cash system.
+
+[2]	Wood, G. (2014). Ethereum: A secure decentralised generalised transaction ledger. Ethereum Project Yellow Paper, 151.
+
+[3]	Buterin, V. (2014). A next-generation smart contract and decentralized application platform. Ethereum White Paper.
+
+[4]	Swan, M. (2015). Blueprint for a new economy. O'Reilly.
+
+[5]	Tapscott, D., & Tapscott, A. (2016). Blockchain revolution: how the technology behind bitcoin is changing money, business, and the 	world. Portfolio.
+
+[6]	Davidson, S., De Filippi, P., & Potts, J. (2018). Blockchains and the economic institutions of capitalism. Journal of Institutional Economics, 14(4), 639-658.
+
+[7]	Rozas, D., Tenorio-Fornés, A., Díaz-Molina, S., & Hassan, S. (2021). Exploring the potentials of blockchain for commons governance.
+
+[8]	"Politics of Tonga" - This source provides an overview of Tonga's political system, which operates within a framework of 	constitutional monarchy, with the King as the Head of State and the Commander-in-Chief of the Armed Forces. (Source: Wikipedia - Politics of Tonga).
+
+[9]	"Tonga System of Government Information - PacLII" - This source provides information on Tonga's government structure, including its hereditary constitutional monarchy and parliamentary democracy. (Source: PacLII - Tonga System of Government Information).
