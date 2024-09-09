@@ -1,6 +1,4 @@
-# Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus
-
-## About
+# About
 
 Malo e Lelei and welcome! 
 
@@ -12,10 +10,8 @@ Appreciate your support and comments! I'd love to hear from you.
 
 Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gmail.com](mailto:etuini.liavaa@gmail.com) or [Twitter](https://twitter.com/EdwinLiavaa) or [GitHub](https://github.com/EdwinLiavaa) or [LinkedIn](https://www.linkedin.com/in/edwin-liavaa/)
 
-## Whitepaper
+# Whitepaper
 ---
-
-[Decentralized Micro-Governance Model for the Kingdom of Tonga Based on Proof-of-Work Consensus](https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/dmm-kingdom-of-tonga-white-paper-1st-DRAFT.pdf) 
 
 <p align="center">
  <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
