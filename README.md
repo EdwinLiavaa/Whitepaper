@@ -1,12 +1,10 @@
 # About
 
-Malo e Lelei and welcome! 
+Malo e Lelei and Welcome! 
 
-I'm excited to share with you my whitepaper on restructuring Tonga's entire governance model around blockchains and proof-of-work consensus. By validating the authentic popular will directly from citizens through cryptography, we remove the need for institutional centralization and intermediaries. Policy outcomes emerge from the accountable expenditure of participatory efforts rewarded as sovereign equity stakes.
+<p align="justify">I'm excited to share with you my whitepaper on restructuring Tonga's entire governance model around blockchains and proof-of-work consensus. By validating the authentic popular will directly from citizens through cryptography, we remove the need for institutional centralization and intermediaries. Policy outcomes emerge from the accountable expenditure of participatory efforts rewarded as sovereign equity stakes.</p>
 
 Please visit the [whitepaper](https://www.researchgate.net/publication/380904006_Decentralized_Micro-Governance_Model_for_the_Kingdom_of_Tonga_Based_on_Proof-of-Work_Consensus) at ResearchGate.
-
-Appreciate your support and comments! I'd love to hear from you.
 
 Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gmail.com](mailto:etuini.liavaa@gmail.com) or [Twitter](https://twitter.com/EdwinLiavaa) or [GitHub](https://github.com/EdwinLiavaa) or [LinkedIn](https://www.linkedin.com/in/edwin-liavaa/)
 
@@ -34,7 +32,7 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
 
 ## Abstract
 
-<p align="justify"> A purely decentralized model of constitutional governance would allow sovereign affairs to be conducted directly by the people without reliance on centralized political institutions. Cryptographic proof-of-work provides a solution to the issues of democratic representation and execution of the popular will. We propose a decentralized micro-governance system using a proof-of-work blockchain to record immutable decisions made by communities. The network timestamps participatory proposals by hashing them into an ongoing chain, forming a transparent record that cannot be altered without redoing the proof-of-work. Nodes express acceptance of proposals by extending the longest valid chain, with the chain representing the true sequence of events agreed upon by the most proof-of-work effort from participants. As long as honest participants control the majority of effort, they generate the longest chain, enacting their collective will while automatically rejecting invalid attempts by any minority attackers.</p>
+<p align="justify">A purely decentralized model of constitutional governance would allow sovereign affairs to be conducted directly by the people without reliance on centralized political institutions. Cryptographic proof-of-work provides a solution to the issues of democratic representation and execution of the popular will. We propose a decentralized micro-governance system using a proof-of-work blockchain to record immutable decisions made by communities. The network timestamps participatory proposals by hashing them into an ongoing chain, forming a transparent record that cannot be altered without redoing the proof-of-work. Nodes express acceptance of proposals by extending the longest valid chain, with the chain representing the true sequence of events agreed upon by the most proof-of-work effort from participants. As long as honest participants control the majority of effort, they generate the longest chain, enacting their collective will while automatically rejecting invalid attempts by any minority attackers.</p>
 
 </ul>
 
@@ -234,16 +232,19 @@ Here is a proposed organizational structure flow chart for Tonga's decentralized
 </p>
 
 ### Key Points:
-<p align="justify">
-
 - The Constitutional Monarchy defines the core founding principles and human rights framework that all other levels must operate within. The Sovereign serves as the architect and arbiter of this foundational national vision. 
 - The Nobles Council serves an executive advisory and governance auditing role, ensuring policies and operations across all levels remain aligned with the Constitutional parameters defined by the Monarch. 
 - The National Governance Blockchain maintains the master chain recording all national proposals and policies. Policies are enacted through a proof-of-work mining process establishing participatory consensus from citizens. 
 - Local communities operate their own child blockchains derived from the national chain, allowing decentralized self-governance over operations directly impacting that locality. Various cooperative models can be established by communities. 
 - Sub-communities like neighborhoods, family networks etc. can instantiate even more granular nested blockchains inheriting rules/policies from the parent community chain while enacting hyper-local policies. 
 - All levels are unified through the hierarchical inherited blockchain architecture, with subordinate chains constitutionally bound to higher level chains, ultimately deferred to the Monarch's Constitutional foundations. 
-  
-</p>
       
 <p align="justify">The structure allows a fluid balance between centralized Constitutional principles enforced by the Sovereign, and radical decentralized autonomy for communities to self-organize and collaborate through participatory micro-governance secured by proof-of-work consensus across all levels.</p>
 
+## 11. Mathematical Functions 
+
+Here are some of the mathematical functions supporting the proposed decentralized micro-governance model for the Kingdom of Tonga based on proof-of-work:
+
+<p align="center">
+ <img width="500" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
+</p>
