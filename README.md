@@ -30,11 +30,11 @@ Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gm
 </div>
 
 <div align="center">
-    edwin@liavaa.space 
+    [edwin@liavaa.space](mailto:edwin@liavaa.space)  
 </div>
 
 <div align="center">
-    www.liavaa.space
+    [www.liavaa.space](http://www.liavaa.space) 
 </div>
 
 <div style="margin-right: 100px;">
