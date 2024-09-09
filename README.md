@@ -228,7 +228,7 @@ This multi-year road-map allows rigorous testing, refinement and scaled on-board
 Here is a proposed organizational structure flow chart for Tonga's decentralized micro-governance model based on the proof-of-work blockchain ecosystem described:
 
 <p align="center">
- <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
+ <img width="600" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
 </p>
 
 ### Key Points:
