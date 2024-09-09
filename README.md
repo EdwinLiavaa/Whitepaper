@@ -228,7 +228,7 @@ This multi-year road-map allows rigorous testing, refinement and scaled on-board
 Here is a proposed organizational structure flow chart for Tonga's decentralized micro-governance model based on the proof-of-work blockchain ecosystem described:
 
 <p align="center">
- <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
+ <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/pic.png">
 </p>
 
 ### Key Points:
@@ -246,19 +246,19 @@ Here is a proposed organizational structure flow chart for Tonga's decentralized
 Here are some of the mathematical functions supporting the proposed decentralized micro-governance model for the Kingdom of Tonga based on proof-of-work:
 
 <p align="center">
- <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
+ <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/proof-of-work.png">
 </p>
 
 <p align="center">
- <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
+ <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/difficulty-adjustment.png">
 </p>
 
 <p align="center">
- <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
+ <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/sovereign-equity-issuance.png">
 </p>
 
 <p align="center">
- <img width="800" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
+ <img width="700" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/community-blockchain-pegging.png">
 </p>
 
 <p align="justify">This provides a few key example functions, but many other areas could be mathematically modeled, such as equity stake quantification, voting schemes, resource allocation mechanisms, identity attestation protocols, community token issuance policies, and more. The key principles are leveraging robust cryptography, incentive modeling, and provable decentralized consensus through mathematical functions at the core of the governance system's operation.</p>
