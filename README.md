@@ -8,6 +8,10 @@ Please visit the [whitepaper](https://www.researchgate.net/publication/380904006
 
 Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gmail.com](mailto:etuini.liavaa@gmail.com) or [Twitter](https://twitter.com/EdwinLiavaa) or [GitHub](https://github.com/EdwinLiavaa) or [LinkedIn](https://www.linkedin.com/in/edwin-liavaa/)
 
+<p align="center">
+ <img width="650" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/governance-model.png">
+</p>
+
 # Whitepaper
 ---
 <div align="center">
