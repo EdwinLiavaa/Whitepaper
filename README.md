@@ -4,7 +4,7 @@
 
 It is now available on [ResearchGate](https://www.researchgate.net/publication/380904006_Decentralized_Micro-Governance_Model_for_the_Kingdom_of_Tonga_Based_on_Proof-of-Work_Consensus) and [HackerNoon](https://hackernoon.com/decentralized-micro-governance-model-for-the-kingdom-of-tonga-based-on-proof-of-work-consensus)
 
-Contact me: [edwin@liavaa.space](mailto:edwin@liavaa.space) or [etuini.liavaa@gmail.com](mailto:etuini.liavaa@gmail.com) or [Twitter](https://twitter.com/EdwinLiavaa) or [GitHub](https://github.com/EdwinLiavaa) or [LinkedIn](https://www.linkedin.com/in/edwin-liavaa/) 
+Follow me: [Twitter](https://twitter.com/EdwinLiavaa) or [GitHub](https://github.com/EdwinLiavaa) or [LinkedIn](https://www.linkedin.com/in/edwin-liavaa/) 
 
 <p align="center">
  <img width="650" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/governance-model.png">
