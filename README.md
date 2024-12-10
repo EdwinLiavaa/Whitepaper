@@ -10,9 +10,10 @@ Follow me here on:
 [![Edwin Liava'a Twitter](https://img.shields.io/badge/Twitter%20-%20black?style=for-the-badge&logo=X)](https://twitter.com/EdwinLiavaa)
 [![Edwin Liava'a Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=fff&style=for-the-badge)](https://devpost.com/etuini-liavaa) 
 [![Edwin Liava'a HackerNoon](https://img.shields.io/badge/Hackernoon%20-%20green?style=for-the-badge&logo=Hackernoon)](https://hackernoon.com/u/edwinliavaa)
+[![Edwin Liava'a HashNode](https://img.shields.io/badge/Hashnode%20-blue?style=for-the-badge&logo=Hashnode)](https://hashnode.com/@EdwinLiavaa)
 [![Edwin Liava'a Codeium](https://img.shields.io/badge/Codeium%20-%20darkgreen?style=for-the-badge&logo=Codeium)](https://codeium.com/profile/edwinliavaa)
 [![Edwin Liava'a OSGeo](https://img.shields.io/badge/OSGeo%20-%20bluegreen?style=for-the-badge&logo=OSGeo)](https://www.osgeo.org/member/liavaa/)
-[![Edwin Liava'a YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EdwinLiavaa)
+[![Edwin Liava'a YouTube](https://img.shields.io/badge/%20-red?style=for-the-badge&logo=Youtube)](https://www.youtube.com/@EdwinLiavaa)
 
 <p align="center">
  <img width="650" src="https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/governance-model.png">
