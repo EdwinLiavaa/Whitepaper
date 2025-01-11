@@ -23,7 +23,7 @@ It is now available on [ResearchGate](https://www.researchgate.net/publication/3
 </div>
 
 <div align="center">
-    www.liavaa.space 
+    https://github.com/EdwinLiavaa
 </div>
 
 <div style="margin-right: 100px;">
