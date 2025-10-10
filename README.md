@@ -339,7 +339,7 @@ Here is the organizational structure for Tonga's decentralized microgovernance m
 | **Disaster Resilience** | Vulnerable to infrastructure loss | Distributed, rapid recovery |
 | **Regulatory Clarity** | Uncertain mining concerns | Clear nonfinancial data service |
 | **Internet Requirements** | Continuous high-bandwidth | Works with intermittent satellite |
-| **Upfront Investment** | $10,000+ for competitive mining | $0 for participation, $120/monthly hosting |
+| **Upfront Investment** | $10,000+ for competitive mining | $0 for participation, $500/monthly hosting |
 
 ### Pasifika Data Chain Technical Specifications
 
