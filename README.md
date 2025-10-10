@@ -266,14 +266,14 @@ Collectively, these tools empower participatory engagement across all age/demogr
 
 The scale of this transformative model necessitates an incremental, phased rollout timeline:
 
-### Phase 0: Constitutional Ratification (Q3-Q4 2025)
+### Phase 0: Constitutional Ratification  
 - Formalization of governing principles into technical specifications
 - Establish root national blockchain based on Pasifika Data Chain
 - Deploy national digital ID infrastructure
 - Legal/regulatory frameworks for digital governance adoption
 - Initial validator organization selection and training
 
-### Phase 1: Pilot Community Roll-out (Q1-Q2 2026)
+### Phase 1: Pilot Community Roll-out  
 - Deploy decentralized governance in select local communities
 - Test proposal & execution flows, refine tooling and processes
 - 10+ production deployments (Tonga Postal Traceability, MEIDECC DSS)
@@ -281,7 +281,7 @@ The scale of this transformative model necessitates an incremental, phased rollo
 - 50+ trained personnel across pilot communities
 - 20+ validator nodes operational
 
-### Phase 2: Nationwide Governance Activation (Q3 2026 - Q2 2027)
+### Phase 2: Nationwide Governance Activation  
 - Expand decentralized model to all localities across Tonga
 - Crosschain interoperability for collaborative policymaking
 - Integration with economic sectors, regulatory bodies
@@ -290,7 +290,7 @@ The scale of this transformative model necessitates an incremental, phased rollo
 - 500+ trained personnel
 - Mobile apps and comprehensive multilanguage support
 
-### Phase 3: Regional Pacific Integration (2027+)
+### Phase 3: Regional Pacific Integration  
 - Expand to other Pacific Island nations (15+ countries)
 - Regional data sovereignty and cross border cooperation
 - Pacificwide identity verification network
