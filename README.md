@@ -8,6 +8,8 @@
 
 📄 **[Download PDF Version](https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/dmm-kingdom-of-tonga-white-paper-POA-2nd-DRAFT.pdf)**
 
+🔬 **[View on ResearchGate](https://www.researchgate.net/publication/396374072_dmm-kingdom-of-tonga-white-paper-POA-2nd-DRAFT)**
+
 It is now available alongside [Version 1 (Proof-of-Work)](https://github.com/EdwinLiavaa/Whitepaper/blob/main/README-v1-POW.md)
 
 <p align="center">
