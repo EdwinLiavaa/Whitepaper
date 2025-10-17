@@ -131,6 +131,38 @@ Some key use cases include:
 - Immutable records survive natural disasters
 - Zero transaction costs enable unlimited data recording
 
+### Supply Chain and Logistics Traceability (Pilot Deployment)
+
+**Tonga Postal Service Traceability** - Blockchain-based parcel tracking system deployed on the Pasifika Data Chain:
+
+- End-to-end tracking of postal items across Tonga's island network
+- Immutable delivery confirmations and chain of custody records
+- Real-time package location updates accessible to customers
+- Zero cost transaction recording removes barriers for small parcels
+- Integration with customs and border control systems
+- Proof of delivery with cryptographic verification
+- Enhanced accountability and reduced lost parcel incidents
+- Foundation for cross-Pacific postal collaboration
+- Mobile app for customer tracking and notifications
+- Disaster-resistant delivery records
+
+### Environmental and Climate Decision Support (Pilot Deployment)
+
+**MEIDECC Decision Support Performance Indicator** - Ministry of Environment, Climate Change and Disaster Management data analytics platform:
+
+- Real-time environmental monitoring and climate data aggregation
+- Performance indicators for climate adaptation and resilience projects
+- Transparent tracking of Nationally Determined Contributions (NDC) progress
+- Immutable records of environmental impact assessments
+- Zero cost data recording enables comprehensive monitoring
+- Integration with Pacific Regional Environment Programme (SPREP) systems
+- Community-level environmental data collection and validation
+- Disaster preparedness and early warning system integration
+- Budget allocation transparency for climate finance
+- Automated reporting for international climate commitments
+- Evidence-based policy recommendations through data analytics
+- Biodiversity and marine resource monitoring
+
 ### Land Tenure and Resource Allocation
 - Smart contracts encoding community land trusts and sustainable usage rights
 - Permanent, disaster resistant land registry records
@@ -630,7 +662,10 @@ Savings: 40-60% cost reduction + complete data sovereignty
 **GitHub:** https://github.com/EdwinLiavaa/Whitepaper
 
 **Pasifika Data Chain:** https://github.com/Pasifika-Web3-Tech-Hub/pasifika-poa-chain  
-**Production Deployment:** FSM Utilities DePIN-GIS (Kosrae, Pohnpei, Yap)
+**Production Deployments:** 
+- FSM Utilities DePIN-GIS (Kosrae, Pohnpei, Yap)
+- Tonga Postal Service Traceability System
+- MEIDECC Decision Support Performance Indicator Platform
 
 ---
 
