@@ -661,7 +661,7 @@ Savings: 40-60% cost reduction + complete data sovereignty
 **Contact:** edwin@liavaa.space  
 **GitHub:** https://github.com/EdwinLiavaa/Whitepaper
 
-**Pasifika Data Chain:** https://github.com/Pasifika-Web3-Tech-Hub/pasifika-poa-chain  
+**Pasifika Data Chain:** https://github.com/EdwinLiavaa/pasifika-poa-chain  
 **Production Deployments:** 
 - FSM Utilities DePIN-GIS (Kosrae, Pohnpei, Yap)
 - Tonga Postal Service Traceability System
