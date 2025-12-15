@@ -31,7 +31,7 @@ It is now available alongside [Version 1 (Proof-of-Work)](https://github.com/Edw
 </div>
 
 <div align="center">
-    https://github.com/EdwinLiavaa
+    https://liavaa.space
 </div>
 
 <div style="margin-right: 100px;">
