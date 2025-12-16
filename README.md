@@ -4,7 +4,7 @@
 
 # About
 
-<p align="justify">This is the second version of my whitepaper on restructuring Tonga's governance model, now based on Proof-of-Authority consensus in alignment with the Pasifika Data Chain. This nonfinancial blockchain approach removes transaction costs entirely, enabling zero barrier community participation through trusted validators, both individual citizens and organizations. By validating authentic popular will through known, accountable community validators, we create transparent governance without the energy costs and complexity of mining.</p>
+<p align="justify">This is the second version of my whitepaper on restructuring Tonga's governance model, now based on Proof-of-Authority consensus in alignment with the Pasifika Data Chain. This non-financial blockchain approach removes transaction costs entirely, enabling zero barrier community participation through trusted validators, both individual citizens and organizations. By validating authentic popular will through known, accountable community validators, we create transparent governance without the energy costs and complexity of mining.</p>
 
 📄 **[Download PDF Version](https://github.com/EdwinLiavaa/Whitepaper/blob/main/files/dmm-kingdom-of-tonga-white-paper-POA-2nd-DRAFT.pdf)**
 
